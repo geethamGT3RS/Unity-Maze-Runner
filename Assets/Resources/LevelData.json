@@ -1,0 +1,22 @@
+{
+    "levels": [
+      {
+        "plugs": [
+          { "position": [0, 0], "wireLength": 10 },
+          { "position": [5, 5], "wireLength": 6 }
+        ],
+        "bulbPosition": [9, 0],
+        "livePlugPosition": [-9, 0]
+      },
+      {
+        "plugs": [
+          { "position": [-4, 3], "wireLength": 5 },
+          { "position": [0, 0], "wireLength": 5 },
+          { "position": [4, -3], "wireLength": 5 }
+        ],
+        "bulbPosition": [9, 0],
+        "livePlugPosition": [-9, 0]
+      }
+    ]
+  }
+  
